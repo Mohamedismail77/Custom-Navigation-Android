@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/homw"
+        android:icon="@drawable/ic_android_black_24dp"
+        android:title="TODO"
+        app:showAsAction="always"
+        />
+
+    <item android:id="@+id/gg"
+        android:icon="@drawable/ic_apps_black_24dp"
+        android:title="TODO"
+        app:showAsAction="always"/>
+
+
+    <item android:id="@+id/da"
+        android:icon="@drawable/ic_assignment_ind_black_24dp"
+        android:title="TODO"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/pf"
+        android:icon="@drawable/ic_assignment_ind_black_24dp"
+        android:title="TODO"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/pa"
+        android:icon="@drawable/ic_assignment_ind_black_24dp"
+        android:title="TODO"
+        app:showAsAction="always"/>
+
+</menu>
